@@ -1,0 +1,5 @@
+$git status -s
+git log --oneline
+$ git diff ...
+git add .
+$git commit -m "x^4 button
